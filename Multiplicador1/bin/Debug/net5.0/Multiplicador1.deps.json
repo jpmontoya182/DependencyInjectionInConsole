@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0": {
+      "Multiplicador1/1.0.0": {
+        "dependencies": {
+          "Abstracciones": "1.0.0"
+        },
+        "runtime": {
+          "Multiplicador1.dll": {}
+        }
+      },
+      "Abstracciones/1.0.0": {
+        "runtime": {
+          "Abstracciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiplicador1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abstracciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

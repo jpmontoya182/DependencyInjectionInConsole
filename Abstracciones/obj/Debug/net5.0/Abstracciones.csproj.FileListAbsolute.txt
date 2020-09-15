@@ -1,0 +1,10 @@
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\bin\Debug\net5.0\Abstracciones.deps.json
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\bin\Debug\net5.0\Abstracciones.dll
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\bin\Debug\net5.0\Abstracciones.pdb
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\obj\Debug\net5.0\Abstracciones.csprojAssemblyReference.cache
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\obj\Debug\net5.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\obj\Debug\net5.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\obj\Debug\net5.0\Abstracciones.AssemblyInfo.cs
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\obj\Debug\net5.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\obj\Debug\net5.0\Abstracciones.dll
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Abstracciones\obj\Debug\net5.0\Abstracciones.pdb

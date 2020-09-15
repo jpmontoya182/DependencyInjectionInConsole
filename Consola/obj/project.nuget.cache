@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pWejhvwhiUph6nyKCtsNuV57fqDRHaVRiyyzHRB5RyhBKknOIBMHS/Mw8ur4HWcmqG41nHNluLQwCsZHGDImmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan.montoya\\Desktop\\Demo.Inyeccion\\Consola\\Consola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan.montoya\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

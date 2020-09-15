@@ -1,0 +1,13 @@
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\bin\Debug\net5.0\Multiplicador1.deps.json
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\bin\Debug\net5.0\Multiplicador1.dll
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\bin\Debug\net5.0\Multiplicador1.pdb
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\bin\Debug\net5.0\Abstracciones.dll
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\bin\Debug\net5.0\Abstracciones.pdb
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\obj\Debug\net5.0\Multiplicador1.csprojAssemblyReference.cache
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\obj\Debug\net5.0\Multiplicador1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\obj\Debug\net5.0\Multiplicador1.AssemblyInfoInputs.cache
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\obj\Debug\net5.0\Multiplicador1.AssemblyInfo.cs
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\obj\Debug\net5.0\Multiplicador1.csproj.CoreCompileInputs.cache
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\obj\Debug\net5.0\Multiplicador1.csproj.CopyComplete
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\obj\Debug\net5.0\Multiplicador1.dll
+C:\Users\juan.montoya\Desktop\Demo.Inyeccion\Multiplicador1\obj\Debug\net5.0\Multiplicador1.pdb
